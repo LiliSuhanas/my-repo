@@ -1,0 +1,6 @@
+nano makefile
+README.md:
+  touch README.md
+  
+README.md
+  echo "makefile project" > README.md
